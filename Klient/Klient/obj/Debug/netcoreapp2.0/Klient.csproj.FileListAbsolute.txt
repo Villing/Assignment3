@@ -1,0 +1,11 @@
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\bin\Debug\netcoreapp2.0\Klient.deps.json
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\bin\Debug\netcoreapp2.0\Klient.runtimeconfig.json
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\bin\Debug\netcoreapp2.0\Klient.runtimeconfig.dev.json
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\bin\Debug\netcoreapp2.0\Klient.dll
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\bin\Debug\netcoreapp2.0\Klient.pdb
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\obj\Debug\netcoreapp2.0\Klient.csprojResolveAssemblyReference.cache
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\obj\Debug\netcoreapp2.0\Klient.AssemblyInfo.cs
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\obj\Debug\netcoreapp2.0\Klient.dll
+c:\users\thoma\onedrive\documents\visual studio 2017\Projects\Klient\Klient\obj\Debug\netcoreapp2.0\Klient.pdb
+C:\Users\thoma\OneDrive\Documents\Visual Studio 2017\Projects\Klient\Klient\obj\Debug\netcoreapp2.0\Klient.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Documents\Visual Studio 2017\Projects\Klient\Klient\obj\Debug\netcoreapp2.0\Klient.AssemblyInfoInputs.cache
